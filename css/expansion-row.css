@@ -1,0 +1,13 @@
+.expanded {
+    height: 500px !important;
+}
+expansion-row > div.grow {
+    -moz-transition: height .3s;
+    -ms-transition: height .3s;
+    -o-transition: height .3s;
+    -webkit-transition: height .3s;
+    transition: height .3s;
+    overflow: hidden;
+/*    height: 20px;*/
+/*    background-color: red;*/
+}
